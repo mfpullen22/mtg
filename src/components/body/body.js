@@ -2,7 +2,7 @@ import MTG from "../../images/MTG.png";
 
 export default function Body() {
     return (
-        <div className="relative bg-black px-20">
+        <div className="relative bg-black px-8">
         <div className="relative bg-white">
             <div className="mx-auto max-w-7xl lg:grid lg:grid-cols-12 lg:gap-x-8 lg:px-8">
                 <div className="px-6 pt-10 pb-24 sm:pb-32 lg:col-span-7 lg:px-0 lg:pt-48 lg:pb-56 xl:col-span-6">
@@ -27,10 +27,10 @@ export default function Body() {
                 <h1 className="text-center mt-24 text-4xl font-bold tracking-tight text-gray-900 sm:mt-10 sm:text-6xl">
                     5 hours and 32 minutes.
                 </h1>
-                <h1 className="text-center mt-24 text-xl font-bold tracking-tight text-gray-900 sm:mt-10 sm:text-xl">
+                <h1 className="text-center mt-24 mx-2 text-xl font-bold tracking-tight text-gray-900 sm:mt-10 sm:text-xl">
                     That's how long it took Marjorie Taylor Greene to turn the deaths of three 9-year olds into a ghoulish, depraved attack on the transgender community.
                 </h1>
-                <h1 className="text-center mt-24 text-xl font-bold tracking-tight text-gray-900 sm:mt-10 sm:text-xl pb-20">
+                <h1 className="text-center mt-24 mx-2 text-xl font-bold tracking-tight text-gray-900 sm:mt-10 sm:text-xl pb-20">
                     If you are a citizen of her district with children, remember that she values hate and guns more than your child's life when you vote in 2024.
                 </h1>
             </div>

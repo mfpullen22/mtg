@@ -2,7 +2,7 @@ import MTG_Gun2 from "../../images/mtg_gun2.jpg";
 
 export default function Header() {
     return (
-      <div className="relative bg-black px-20 pt-20 pb-5">
+      <div className="relative bg-black px-8 pt-4 pb-5">
         <div className="relative bg-white">
             <div className="mx-auto max-w-7xl lg:grid lg:grid-cols-12 lg:gap-x-8 lg:px-8">
                 <div className="px-6 pt-10 pb-24 sm:pb-32 lg:col-span-7 lg:px-0 lg:pt-48 lg:pb-56 xl:col-span-6">
