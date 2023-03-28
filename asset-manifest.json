@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.67e06c6a.css",
-    "main.js": "/static/js/main.1c03df0d.js",
+    "main.css": "/static/css/main.fc0f8dbd.css",
+    "main.js": "/static/js/main.f315619c.js",
     "static/js/787.61ead125.chunk.js": "/static/js/787.61ead125.chunk.js",
     "static/media/mtg_gun2.jpg": "/static/media/mtg_gun2.5665b41454bd520f447b.jpg",
     "static/media/MTG.png": "/static/media/MTG.3bb4d78e2d5f732066ac.png",
     "index.html": "/index.html",
-    "main.67e06c6a.css.map": "/static/css/main.67e06c6a.css.map",
-    "main.1c03df0d.js.map": "/static/js/main.1c03df0d.js.map",
+    "main.fc0f8dbd.css.map": "/static/css/main.fc0f8dbd.css.map",
+    "main.f315619c.js.map": "/static/js/main.f315619c.js.map",
     "787.61ead125.chunk.js.map": "/static/js/787.61ead125.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.67e06c6a.css",
-    "static/js/main.1c03df0d.js"
+    "static/css/main.fc0f8dbd.css",
+    "static/js/main.f315619c.js"
   ]
 }
