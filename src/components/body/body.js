@@ -8,7 +8,7 @@ export default function Body() {
                 <div className="px-6 pt-10 pb-24 sm:pb-32 lg:col-span-7 lg:px-0 lg:pt-48 lg:pb-56 xl:col-span-6">
                     <div className="mx-auto max-w-2xl lg:mx-0">
                         <h1 className="mt-24 text-xl tracking-tight text-gray-900 sm:mt-10 sm:text-xl">
-                            <span className="font-bold">March 27, 2023 - 10:13am: </span>Nashville Police receive the first 911 call of an active shooting inside Covenant School, a elementary school in the metro area where three 9-year olds would be killed.
+                            <span className="font-bold">March 27, 2023 - 10:13am: </span>Nashville Police receive the first 911 call of an active shooting inside Covenant School, an elementary school in the metro area where three 9-year olds would be killed.
                         </h1>
                         <h1 className="mt-24 text-xl  tracking-tight text-gray-900 sm:mt-10 sm:text-xl">
                             <span className="font-bold">March 27, 2023 - 3:45pm: </span>Marjorie Taylor Greene posts this tweet. 
